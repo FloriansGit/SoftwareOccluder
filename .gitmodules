@@ -1,0 +1,6 @@
+[submodule "CImg"]
+	path = CImg
+	url = https://github.com/dtschump/CImg
+[submodule "googletest"]
+	path = googletest
+	url = https://github.com/google/googletest
